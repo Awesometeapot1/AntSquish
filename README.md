@@ -1,0 +1,1 @@
+soooooo i had ants going for the bins in the house i share while im at second year university so i made a game to squash bugs going to the bin yes very helpful i know but i needed a mental health day. all sprites are drawn by me and its not really kotlin...its half kotlin where i was gonna ai it and then was like python would be way easier so its actually a py game
